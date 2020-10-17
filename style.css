@@ -4,6 +4,12 @@
 
 
 .container {
-    max-width: 300px;
     background-color: white;
+}
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 10vh;
+    background-color: teal;
 }
