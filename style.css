@@ -1,4 +1,4 @@
-.Page-Content {
+ .Page-Content {
     background-color: skyblue;
 }
 
@@ -6,10 +6,14 @@
 .container {
     background-color: white;
 }
-footer {
+ footer {
     width: 100%;
     position: fixed;
     bottom: 0;
-    height: 10vh;
+    height: 5vh;
     background-color: teal;
+    text-align: center;
+}
+.portfolio-image {
+   margin: 1%
 }
